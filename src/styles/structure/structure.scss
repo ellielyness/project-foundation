@@ -1,21 +1,58 @@
-@use '../size/size.scss';
+@import '../size/size.scss';
 
 @for $m from 0 through 10 {
     .m-#{$m} {
         margin: 1rem * $m;
     }
-}
+};
 
 @for $my from 0 through 10 {
     .my-#{$my} {
         margin-top: 1rem * $my;
         margin-bottom: 1rem * $my;
     }
-}
+};
 
 @for $mx from 0 through 10 {
     .mx-#{$mx} {
         margin-left: 1rem * $mx;
         margin-right: 1rem * $mx;
     }
-}
+};
+
+.d-flex {
+    display: flex;
+    flex-direction: row;
+};
+
+@for $col from 1 through 12 {
+    .col-#{$col} {
+        width:100%;
+        max-width: 100% / (12/$col);
+        padding: $base;
+    }
+};
+
+$align-options: start,center,end,self-start,self-end;
+
+@each $align in $align-options {
+    .align-items-#{$align} {
+        align-items: $align;
+    }
+};
+
+$justify-options: start,end,center,left,right,space-between,space-around,space-evenly;
+
+@each $justify in $justify-options {
+    .justify-content-#{$justify} {
+        justify-content: $justify;
+    }
+};
+
+$text-align-options: left,center,right,justify;
+
+@each $text-align in $text-align-options {
+    .text-align-#{$text-align} {
+        text-align: $text-align;
+    }
+};

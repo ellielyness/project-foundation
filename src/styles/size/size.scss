@@ -1,2 +1,11 @@
 $base: 1rem;
 $step: 1.5;
+
+@for $width from 1 to 100 {
+    .w-#{$width} {
+        width:$width%;
+    };
+    .hover-w-#{$width}:hover {
+        width:$width%;
+    };
+}
