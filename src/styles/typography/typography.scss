@@ -1,0 +1,65 @@
+@import '../size/size.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,slnt,wdth,wght,XOPQ,XTRA,YOPQ,YTDE,YTFI,YTLC,YTUC@8..144,-10..0,25..151,100..1000,96,468,79,-203,738,514,712&display=swap');
+
+@font-face {
+    font-family: "Roboto Flex";
+    src: url('../../fonts/roboto-flex/roboto-flex.ttf');
+    font-weight: 100 1000;
+}
+
+* {
+    font-family: "Roboto Flex", sans-serif;
+}
+
+@for $header from 1 through 6 {
+    h#{7-$header} {
+        font-size: $header * $step * $base;
+    }
+}
+
+@for $weight from 100 through 1000 {
+    .font-weight-#{$weight} {
+        font-weight: $weight;
+    }
+    .hover-font-weight-#{$weight}:hover {
+        font-weight: $weight;
+    }
+}
+
+@for $size from 1 through 10 {
+    .font-size-#{$size} {
+        font-size: $size * $step * $base;
+    }
+    .hover-font-size-#{$size}:hover {
+        font-size: $size * $step * $base;
+    }
+}
+
+@for $width from 25 through 151 {
+    .font-width-#{$width} {
+        font-variation-settings: "wdth" $width;
+    }
+    .hover-font-width-#{$width}:hover {
+        font-variation-settings: "wdth" $width;
+    }
+}
+
+@for $slant from 0 through 10 {
+    .font-slant-#{$slant} {
+        font-variation-settings: "slnt" - $slant;
+    }
+    .hover-font-slant-#{$slant}:hover {
+        font-variation-settings: "slnt" $slant;
+    }
+}
+
+@for $width from 25 through 151 {
+  @for $slant from 0 through 10 {
+    .font-width-#{$width}.font-slant-#{$slant} {
+      font-variation-settings: "wdth" $width, "slnt" -$slant;
+    }
+    .hover-font-width-#{$width}.hover-font-slant-#{$slant}:hover {
+      font-variation-settings: "wdth" $width, "slnt" -$slant;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+@use '../size/size.scss';
+
+@for $m from 0 through 10 {
+    .m-#{$m} {
+        margin: 1rem * $m;
+    }
+}
+
+@for $my from 0 through 10 {
+    .my-#{$my} {
+        margin-top: 1rem * $my;
+        margin-bottom: 1rem * $my;
+    }
+}
+
+@for $mx from 0 through 10 {
+    .mx-#{$mx} {
+        margin-left: 1rem * $mx;
+        margin-right: 1rem * $mx;
+    }
+}
