@@ -1,31 +1,62 @@
-@import '../size/size.scss';
+@import '../globals.scss';
 
-@for $m from 0 through 10 {
+// Margins
+@for $m from 0 through 11 {
+
     .m-#{$m} {
         margin: 1rem * $m;
+    };
+
+    .my-#{$m} {
+        margin-top: 1rem * $m;
+        margin-bottom: 1rem * $m;
+    };
+
+    .mx-#{$m} {
+        margin-left: 1rem * $m;
+        margin-right: 1rem * $m;
     }
+
 };
 
-@for $my from 0 through 10 {
-    .my-#{$my} {
-        margin-top: 1rem * $my;
-        margin-bottom: 1rem * $my;
+.m-auto {
+    margin:auto;
+}
+
+// Padding
+@for $p from 0 through 11 {
+
+    .p-#{$p} {
+        padding: 1rem * $p;
+    };
+
+    .py-#{$p} {
+        padding-top: 1rem * $p;
+        padding-bottom: 1rem * $p;
+    };
+
+    .px-#{$p} {
+        padding-left: 1rem * $p;
+        padding-right: 1rem * $p;
     }
+
 };
 
-@for $mx from 0 through 10 {
-    .mx-#{$mx} {
-        margin-left: 1rem * $mx;
-        margin-right: 1rem * $mx;
-    }
-};
-
+// Grid System
 .d-flex {
     display: flex;
     flex-direction: row;
 };
 
-@for $col from 1 through 12 {
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+@for $col from 1 through 13 {
     .col-#{$col} {
         width:100%;
         max-width: 100% / (12/$col);
@@ -33,16 +64,16 @@
     }
 };
 
-$align-options: start,center,end,self-start,self-end;
+// Alignment
 
+$align-options: start,center,end,self-start,self-end;
 @each $align in $align-options {
-    .align-items-#{$align} {
-        align-items: $align;
+    .align-content-#{$align} {
+        align-content: $align;
     }
 };
 
 $justify-options: start,end,center,left,right,space-between,space-around,space-evenly;
-
 @each $justify in $justify-options {
     .justify-content-#{$justify} {
         justify-content: $justify;
@@ -50,9 +81,58 @@ $justify-options: start,end,center,left,right,space-between,space-around,space-e
 };
 
 $text-align-options: left,center,right,justify;
-
 @each $text-align in $text-align-options {
     .text-align-#{$text-align} {
         text-align: $text-align;
     }
+};
+
+// Media Queries
+
+@each $name, $value in $breakpoints {
+
+    @for $col from 1 through 13 {
+        @media screen and (min-width: $value) {
+            .col-#{$name}-#{$col} {
+                width:100%;
+                max-width: 100% / (12/$col);
+                padding: $base;
+            }
+        }
+    };
+
+    @each $justify in $justify-options {
+        @media screen and (min-width: $value) {
+            .justify-content-#{$name}-#{$justify} {
+                justify-content: $justify;
+            }
+        }
+    };
+
+    @each $text-align in $text-align-options {
+        @media screen and (min-width: $value) {
+            .text-align-#{$name}-#{$text-align} {
+                text-align: $text-align;
+            }
+        }
+    };
+
+    @each $align in $align-options {
+        @media screen and (min-width: $value) {
+            .align-content-#{$name}-#{$align} {
+                align-content: $align;
+            }
+        }
+    };
+
+    @media screen and (min-width: $value) {
+        .flex-#{$name}-column {
+            flex-direction: column;
+        }
+        .flex-#{$name}-row {
+            flex-direction: row;
+        }
+    }
+    
+
 };

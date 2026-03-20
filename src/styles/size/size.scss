@@ -1,11 +1,37 @@
-$base: 1rem;
-$step: 1.5;
+@import '../globals.scss';
 
-@for $width from 1 to 100 {
+@for $width from 1 to 101 {
     .w-#{$width} {
-        width:$width%;
+        width:$width * 1%;
     };
     .hover-w-#{$width}:hover {
-        width:$width%;
+        width:$width * 1%;
     };
 }
+
+@for $height from 1 to 101 {
+    .h-#{$height} {
+        height:$height * $base;
+    };
+    .hover-h-#{$height}:hover {
+        height:$height * $base;
+    };
+}
+
+@for $vh from 1 to 101 {
+    .vh-#{$vh} {
+        height:$vh * 1vh;
+    };
+}
+
+// Media Queries
+
+@each $name, $value in $breakpoints {
+    @for $width from 1 to 101 {
+        @media screen and (max-width: $value) {
+            .w-#{$name}-#{$width} {
+                width:$width * 1%;
+            };
+        }
+    }
+};
