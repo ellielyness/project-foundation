@@ -4,17 +4,33 @@
 @for $m from 0 through 11 {
 
     .m-#{$m} {
-        margin: 1rem * $m;
+        margin: 1rem * $m !important;
     };
 
     .my-#{$m} {
-        margin-top: 1rem * $m;
-        margin-bottom: 1rem * $m;
+        margin-top: 1rem * $m !important;
+        margin-bottom: 1rem * $m !important;
+    };
+
+    .mb-#{$m} {
+        margin-bottom: 1rem * $m !important;
+    };
+
+    .mt-#{$m} {
+        margin-top: 1rem * $m !important;
+    };
+
+    .mr-#{$m} {
+        margin-right: 1rem * $m !important;
+    };
+
+    .ml-#{$m} {
+        margin-left: 1rem * $m !important;
     };
 
     .mx-#{$m} {
-        margin-left: 1rem * $m;
-        margin-right: 1rem * $m;
+        margin-left: 1rem * $m !important;
+        margin-right: 1rem * $m !important;
     }
 
 };
@@ -27,17 +43,33 @@
 @for $p from 0 through 11 {
 
     .p-#{$p} {
-        padding: 1rem * $p;
+        padding: 1rem * $p !important;
     };
 
     .py-#{$p} {
-        padding-top: 1rem * $p;
-        padding-bottom: 1rem * $p;
+        padding-top: 1rem * $p !important;
+        padding-bottom: 1rem * $p !important;
     };
 
     .px-#{$p} {
-        padding-left: 1rem * $p;
-        padding-right: 1rem * $p;
+        padding-left: 1rem * $p !important;
+        padding-right: 1rem * $p !important;
+    }
+
+    .pt-#{$p} {
+        padding-top: 1rem * $p !important;
+    }
+
+    .pb-#{$p} {
+        padding-bottom: 1rem * $p !important;
+    }
+
+    .pr-#{$p} {
+        padding-left: 1rem * $p !important;
+    }
+
+    .pl-#{$p} {
+        padding-right: 1rem * $p !important;
     }
 
 };
@@ -86,6 +118,12 @@ $text-align-options: left,center,right,justify;
         text-align: $text-align;
     }
 };
+
+// Position
+
+.position-absolute {
+    position:absolute;
+}
 
 // Media Queries
 

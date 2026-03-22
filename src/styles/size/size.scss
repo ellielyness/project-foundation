@@ -1,6 +1,24 @@
 @import '../globals.scss';
 
-@for $width from 1 to 101 {
+@for $width from 1 to $namedSizeMax {
+    .w-#{$width} {
+        width:$width * $base;
+    };
+    .hover-w-#{$width}:hover {
+        width:$width * $base;
+    };
+}
+
+@for $height from 1 to $namedSizeMax {
+    .h-#{$height} {
+        height:$height * $base;
+    };
+    .hover-h-#{$height}:hover {
+        height:$height * $base;
+    };
+}
+
+@for $width from $namedSizeMax to 101 {
     .w-#{$width} {
         width:$width * 1%;
     };
@@ -9,7 +27,7 @@
     };
 }
 
-@for $height from 1 to 101 {
+@for $height from $namedSizeMax to 101 {
     .h-#{$height} {
         height:$height * $base;
     };
@@ -22,6 +40,34 @@
     .vh-#{$vh} {
         height:$vh * 1vh;
     };
+}
+
+@for $border from 1 to 10 {
+    .border-#{$border} {
+        border: (1px * $border) solid;
+    }
+    .border-top-#{$border} {
+        border-top: (1px * $border) solid;
+    }
+    .border-bottom-#{$border} {
+        border-bottom: (1px * $border) solid;
+    }
+    .border-left-#{$border} {
+        border-left: (1px * $border) solid;
+    }
+    .border-right-#{$border} {
+        border-right: (1px * $border) solid;
+    }
+}
+
+@for $radius from 1 to 10 {
+    .border-radius-#{$radius} {
+        border-radius: ($base / 2) * $radius;
+    }
+}
+
+.border-radius-full {
+    border-radius: 9999px;
 }
 
 // Media Queries
