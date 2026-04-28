@@ -1,4 +1,4 @@
-@import '../globals.scss';
+@use '../globals.scss' as *;
 
 // Margins
 @for $m from 0 through 11 {
@@ -91,7 +91,7 @@
 @for $col from 1 through 13 {
     .col-#{$col} {
         width:100%;
-        max-width: 100% / (12/$col);
+        max-width: calc(100% / (12/$col));
         padding: $base;
     }
 };
@@ -133,7 +133,7 @@ $text-align-options: left,center,right,justify;
         @media screen and (min-width: $value) {
             .col-#{$name}-#{$col} {
                 width:100%;
-                max-width: 100% / (12/$col);
+                max-width: calc(100% / (12/$col));
                 padding: $base;
             }
         }

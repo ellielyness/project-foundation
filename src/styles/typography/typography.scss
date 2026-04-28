@@ -1,4 +1,4 @@
-@import '../globals.scss';
+@use '../globals.scss' as *;
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,slnt,wdth,wght,XOPQ,XTRA,YOPQ,YTDE,YTFI,YTLC,YTUC@8..144,-10..0,25..151,100..1000,96,468,79,-203,738,514,712&display=swap');
 @font-face {
     font-family: "Roboto Flex";
@@ -42,10 +42,10 @@
 @for $width from 25 through 152 {
   @for $slant from 0 through 11 {
     .font-width-#{$width}.font-slant-#{$slant} {
-      font-variation-settings: "wdth" $width, "slnt" -$slant;
+      font-variation-settings: "wdth" $width, "slnt" (-$slant);
     }
     .hover-font-width-#{$width}.hover-font-slant-#{$slant}:hover {
-      font-variation-settings: "wdth" $width, "slnt" -$slant;
+      font-variation-settings: "wdth" $width, "slnt" (-$slant);
     }
   }
 }
@@ -56,35 +56,35 @@
 @for $header from 1 through 6 {
     h#{7-$header} {
         font-size: $header * $step * $base;
-        line-height: ($header) * $step * $base + ($base / 2);
+        line-height: calc(($header) * $step * $base + ($base / 2));
     }
 }
 
 .font-size-1 {
     font-size: $base;
-    line-height: $base * $step + ($base / 2);
+    line-height: calc($base * $step + ($base / 2));
 }
 
 .font-leading-1 {
-    line-height: $base * $step + ($base / 2);
+    line-height: calc($base * $step + ($base / 2));
 }
 
 @for $size from 2 through 11 {
     .font-size-#{$size} {
-        font-size: ($size - 1) * $step * $base;
-        line-height: ($size - 1) * $step * $base + ($base / 2);
+        font-size: calc(($size - 1) * $step * $base);
+        line-height: calc(($size - 1) * $step * $base + ($base / 2));
     }
     .hover-font-size-#{$size}:hover {
-        font-size: ($size - 1) * $step * $base;
-        line-height: ($size - 1) * $step * $base + ($base / 2);
+        font-size: calc(($size - 1) * $step * $base);
+        line-height: calc(($size - 1) * $step * $base + ($base / 2));
     }
 }
 
 @for $lh from 2 through 11 {
     .font-leading-#{$lh} {
-        line-height: $lh * $step * $base;
+        line-height: calc($lh * $step * $base);
     }
     .hover-font-leading-#{$lh}:hover {
-        line-height: $lh * $step * $base;
+        line-height: calc($lh * $step * $base);
     }
 }

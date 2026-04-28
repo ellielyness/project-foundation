@@ -40,6 +40,6 @@ $colors: (
 
 @for $value from 1 through 101 {
   .opacity-#{$value} {
-    opacity: $value / 100;
+    opacity: calc($value / 100);
   }
 }

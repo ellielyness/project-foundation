@@ -1,11 +1,11 @@
-@import '../globals.scss';
+@use '../globals.scss' as *;
 
 @for $width from 1 to $namedSizeMax {
     .w-#{$width} {
         width:$width * $base;
     };
     .hover-w-#{$width}:hover {
-        width:$width * $base;
+        width: calc($width * $base);
     };
 }
 
@@ -14,55 +14,55 @@
         height:$height * $base;
     };
     .hover-h-#{$height}:hover {
-        height:$height * $base;
+        height: calc($height * $base);
     };
 }
 
 @for $width from $namedSizeMax to 101 {
     .w-#{$width} {
-        width:$width * 1%;
+        width: calc($width * 1%);
     };
     .hover-w-#{$width}:hover {
-        width:$width * 1%;
+        width: calc($width * 1%);
     };
 }
 
 @for $height from $namedSizeMax to 101 {
     .h-#{$height} {
-        height:$height * $base;
+        height: calc($height * $base);
     };
     .hover-h-#{$height}:hover {
-        height:$height * $base;
+        height: calc($height * $base);
     };
 }
 
 @for $vh from 1 to 101 {
     .vh-#{$vh} {
-        height:$vh * 1vh;
+        height: calc($vh * 1vh);
     };
 }
 
 @for $border from 1 to 10 {
     .border-#{$border} {
-        border: (1px * $border) solid;
+        border: calc(1px * $border) solid;
     }
     .border-top-#{$border} {
-        border-top: (1px * $border) solid;
+        border-top: calc(1px * $border) solid;
     }
     .border-bottom-#{$border} {
-        border-bottom: (1px * $border) solid;
+        border-bottom: calc(1px * $border) solid;
     }
     .border-left-#{$border} {
-        border-left: (1px * $border) solid;
+        border-left: calc(1px * $border) solid;
     }
     .border-right-#{$border} {
-        border-right: (1px * $border) solid;
+        border-right: calc(1px * $border) solid;
     }
 }
 
 @for $radius from 1 to 10 {
     .border-radius-#{$radius} {
-        border-radius: ($base / 2) * $radius;
+        border-radius: calc($base / 2) * $radius;
     }
 }
 
@@ -76,7 +76,7 @@
     @for $width from 1 to 101 {
         @media screen and (max-width: $value) {
             .w-#{$name}-#{$width} {
-                width:$width * 1%;
+                width: calc($width * 1%);
             };
         }
     }
