@@ -1,11 +1,15 @@
-import Header from '../components/typography/Header'
+import Header from '../components/layout/Header'
 import Grid from '../components/display/Grid'
 
 export default function Page() {
     return (
-        <div className="d-flex justify-content-center vh-100">
-            <h1 className="text-secondary-albedo">Test</h1>
-            <Grid />
-        </div>
+        <main>
+            <Header heading="Lorem Ipsum" subheading="Dolor Sit Amet" />
+            <div id="content" className="mx-8 py-3">
+                <p id="intro" className="font-size-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...</p>
+                <p>An unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p>An unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+        </main>
     )
 }

@@ -9,6 +9,8 @@ $colors: (
     primary-shade: rgb(64,0,30),
     secondary-tint: rgb(229,219,255),
     secondary-shade: rgb(10,0,64),
+    white: rgb(255,255,255),
+    black: rgb(0,0,0),
 );
 
 @each $name, $value in $colors {

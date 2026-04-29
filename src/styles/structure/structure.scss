@@ -107,10 +107,16 @@ $align-options: start,center,end,self-start,self-end;
 
 $justify-options: start,end,center,left,right,space-between,space-around,space-evenly;
 @each $justify in $justify-options {
-    .justify-content-#{$justify} {
+    .justify-#{$justify} {
         justify-content: $justify;
     }
 };
+
+@for $gap from 1 to $namedSizeMax {
+    .gap-#{$gap} {
+        gap: calc($gap * $base);
+    };
+}
 
 $text-align-options: left,center,right,justify;
 @each $text-align in $text-align-options {
@@ -121,9 +127,12 @@ $text-align-options: left,center,right,justify;
 
 // Position
 
-.position-absolute {
-    position:absolute;
-}
+$position-options: absolute,fixed,relative,static,sticky;
+@each $position in $position-options {
+    .position-#{$position} {
+        position: $position;
+    }
+};
 
 // Media Queries
 

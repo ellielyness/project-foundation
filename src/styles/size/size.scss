@@ -1,5 +1,9 @@
 @use '../globals.scss' as *;
 
+* {
+    box-sizing: border-box;
+}
+
 @for $width from 1 to $namedSizeMax {
     .w-#{$width} {
         width:$width * $base;
@@ -29,10 +33,10 @@
 
 @for $height from $namedSizeMax to 101 {
     .h-#{$height} {
-        height: calc($height * $base);
+        height: calc($height * 1%);
     };
     .hover-h-#{$height}:hover {
-        height: calc($height * $base);
+        height: calc($height * 1%);
     };
 }
 

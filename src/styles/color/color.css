@@ -238,6 +238,54 @@
   border-color: rgb(10, 0, 64);
 }
 
+.text-white {
+  color: rgb(255, 255, 255);
+}
+
+.hover-text-white:hover {
+  color: rgb(255, 255, 255);
+}
+
+.bg-white {
+  background-color: rgb(255, 255, 255);
+}
+
+.border-white {
+  border-color: rgb(255, 255, 255);
+}
+
+.hover-bg-white:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+.hover-border-white:hover {
+  border-color: rgb(255, 255, 255);
+}
+
+.text-black {
+  color: rgb(0, 0, 0);
+}
+
+.hover-text-black:hover {
+  color: rgb(0, 0, 0);
+}
+
+.bg-black {
+  background-color: rgb(0, 0, 0);
+}
+
+.border-black {
+  border-color: rgb(0, 0, 0);
+}
+
+.hover-bg-black:hover {
+  background-color: rgb(0, 0, 0);
+}
+
+.hover-border-black:hover {
+  border-color: rgb(0, 0, 0);
+}
+
 .opacity-1 {
   opacity: 0.01;
 }
