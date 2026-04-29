@@ -1,0 +1,4478 @@
+[00:00:00.932] Server  LOG     ✓ Ready in 630ms
+[00:00:01.128] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.129] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.129] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.129] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.129] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:01.129] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.130] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.403] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.404] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.404] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.404] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.404] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:01.404] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:01.405] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.405] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.405] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.405] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.405] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:01.406] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:30.418] Server  LOG     ✓ Compiled in 1181ms
+[00:00:33.486] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.487] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.488] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.488] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.489] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.489] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.634] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:00:33.635] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.636] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.636] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.636] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.636] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:00:33.636] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:01.217] Server  LOG     ✓ Compiled in 797ms
+[00:01:08.236] Server  LOG     ✓ Compiled in 634ms
+[00:01:09.975] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.975] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.975] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.976] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.977] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:09.977] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.138] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.139] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.139] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.139] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.139] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:01:10.139] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:10.140] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:01:37.157] Server  LOG     ✓ Compiled in 757ms
+[00:01:50.843] Server  LOG     ✓ Compiled in 12ms
+[00:02:10.622] Server  LOG     ✓ Compiled in 6ms
+[00:02:22.014] Server  LOG     ✓ Compiled in 5ms
+[00:02:27.011] Server  LOG     ✓ Compiled in 4ms
+[00:04:13.763] Server  LOG     ✓ Compiled in 4ms
+[00:04:38.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:38.848] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.022] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.022] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.022] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.022] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:04:39.023] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:37.576] Server  LOG     ✓ Compiled in 31ms
+[00:05:50.644] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.645] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.646] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.800] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.800] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.801] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.801] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.801] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:05:50.801] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:05:50.802] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:06:36.015] Server  LOG     ✓ Compiled in 4ms
+[00:06:48.612] Server  LOG     ✓ Compiled in 4ms
+[00:07:45.663] Server  LOG     ✓ Compiled in 813ms
+[00:08:49.378] Server  LOG     ✓ Compiled in 4ms
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.824] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.825] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.825] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:08:53.970] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:08:53.971] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:25.730] Server  LOG     ✓ Compiled in 5ms
+[00:09:28.839] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.839] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.839] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.840] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.841] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:28.841] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.036] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.037] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.037] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.038] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.038] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:09:29.038] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:09:29.040] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.041] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.041] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.041] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.041] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:29.042] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:09:45.659] Server  LOG     ✓ Compiled in 4ms
+[00:09:52.825] Server  LOG     ✓ Compiled in 4ms
+[00:09:55.913] Server  LOG     ✓ Compiled in 4ms
+[00:10:29.181] Server  LOG     ✓ Compiled in 5ms
+[00:11:45.450] Server  LOG     ✓ Compiled in 5ms
+[00:11:54.401] Server  LOG     ✓ Compiled in 4ms
+[00:11:59.645] Server  LOG     ✓ Compiled in 4ms
+[00:12:05.993] Server  LOG     ✓ Compiled in 4ms
+[00:12:10.633] Server  LOG     ✓ Compiled in 4ms
+[00:12:36.438] Server  LOG     ✓ Compiled in 4ms
+[00:12:38.532] Server  LOG     ✓ Compiled in 4ms
+[00:12:40.911] Server  LOG     ✓ Compiled in 4ms
+[00:12:42.572] Server  LOG     ✓ Compiled in 3ms
+[00:13:06.256] Server  LOG     ✓ Compiled in 4ms
+[00:13:52.146] Server  LOG     ✓ Compiled in 6ms
+[00:14:12.941] Server  LOG     ✓ Compiled in 5ms
+[00:14:22.262] Server  LOG     ✓ Compiled in 4ms
+[00:14:32.242] Server  LOG     ✓ Compiled in 4ms
+[00:14:41.788] Server  LOG     ✓ Compiled in 5ms
+[00:15:48.924] Server  LOG     ✓ Compiled in 824ms
+[00:20:30.678] Browser LOG     Refreshing page data due to server-side change
+[00:20:30.712] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.712] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.712] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.713] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.744] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.745] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.745] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.745] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.745] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.745] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.746] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.845] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.846] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:30.847] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.754] Browser LOG     Refreshing page data due to server-side change
+[00:20:36.780] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.781] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.782] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.782] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.782] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.782] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.782] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.811] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.811] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.811] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.811] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.811] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.812] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.884] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.885] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.885] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.885] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:20:36.885] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:21:01.911] Server  LOG     ✓ Compiled in 4ms
+[00:21:10.747] Server  LOG     ✓ Compiled in 4ms
+[00:21:43.942] Server  LOG     ✓ Compiled in 4ms
+[00:21:57.801] Server  LOG     ✓ Compiled in 4ms
+[00:22:40.878] Server  LOG     ✓ Compiled in 4ms
+[00:22:58.901] Server  LOG     ✓ Compiled in 4ms
+[00:23:23.549] Browser LOG     Refreshing page data due to server-side change
+[00:23:23.578] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.579] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.580] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.581] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.581] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.581] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.610] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.610] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.611] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.612] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.612] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.718] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.718] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 16, column 10 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:16:10:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+16 |   .text-#{$name} {
+
+
+src\styles\color\color.scss 17:11  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.718] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 20, column 16 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:20:16:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+20 |   .hover-text-#{$name}:hover {
+
+
+src\styles\color\color.scss 21:17  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 24, column 8 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:24:8:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+24 |   .bg-#{$name} {
+
+
+src\styles\color\color.scss 25:9  @use
+src\styles\styles.scss 5:1        root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 28, column 12 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:28:12:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+28 |   .border-#{$name} {
+
+
+src\styles\color\color.scss 29:13  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.719] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 32, column 14 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:32:14:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+32 |   .hover-bg-#{$name}:hover {
+
+
+src\styles\color\color.scss 33:15  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.720] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value black in interpolation here.
+It may end up represented as black, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "black").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:23.720] Server  WARN    ⚠ ./src/styles/styles.scss
+Issue while running loader
+SassWarning: Warning on line 36, column 18 of file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/src/styles/color/color.scss:36:18:
+You probably don't mean to use the color value white in interpolation here.
+It may end up represented as white, which will likely produce invalid CSS.
+Always quote color names when using them as strings or map keys (for example, "white").
+If you really want to use the color value here, use '"" + $name'.
+
+36 |   .hover-border-#{$name}:hover {
+
+
+src\styles\color\color.scss 37:19  @use
+src\styles\styles.scss 5:1         root stylesheet
+
+
+
+[00:23:38.738] Server  LOG     ✓ Compiled in 7ms
+[00:23:45.904] Server  LOG     ✓ Compiled in 6ms
+[00:23:54.731] Server  LOG     ✓ Compiled in 4ms
+[00:24:31.477] Server  LOG     ✓ Compiled in 6ms
+[00:24:38.718] Server  LOG     ✓ Compiled in 4ms
+[00:24:43.908] Server  LOG     ✓ Compiled in 7ms
+[00:24:49.991] Server  LOG     ✓ Compiled in 4ms
+[00:24:59.856] Server  LOG     ✓ Compiled in 4ms
+[00:25:11.324] Server  LOG     ✓ Compiled in 4ms
+[00:25:14.358] Server  LOG     ✓ Compiled in 4ms
+[00:25:19.567] Server  LOG     ✓ Compiled in 4ms
+[00:25:23.687] Server  LOG     ✓ Compiled in 17ms
+[00:25:27.502] Server  LOG     ✓ Compiled in 3ms
+[00:25:37.469] Server  LOG     ✓ Compiled in 4ms
+[00:25:57.897] Server  LOG     ✓ Compiled in 4ms
+[00:26:02.036] Server  LOG     ✓ Compiled in 4ms
+[00:26:05.058] Server  LOG     ✓ Compiled in 4ms

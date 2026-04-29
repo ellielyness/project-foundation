@@ -1,0 +1,15 @@
+@use '../globals.scss' as *;
+
+$cursor-options: pointer,progress,context-menu,help,wait,cell,crosshair,text,copy,move,grab,grabbing;
+@each $cursor in $cursor-options {
+    .cursor-#{$cursor} {
+        cursor: $cursor;
+    }
+};
+
+$user-select-options: auto,none,text,all;
+@each $user-select in $user-select-options {
+    .user-select-#{$user-select} {
+        user-select: $user-select;
+    }
+};

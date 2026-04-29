@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/pages/_app.tsx"],"sourcesContent":["import type { AppProps } from \"next/app\"\r\nimport '@/styles/styles.scss';\r\n\r\nexport default function App({Component, pageProps}: AppProps) {\r\n    return <Component {...pageProps} />\r\n}"],"names":[],"mappings":";;;;;;;AAGe,SAAS,IAAI,EAAC,SAAS,EAAE,SAAS,EAAW;IACxD,qBAAO,qKAAC;QAAW,GAAG,SAAS;;;;;;AACnC"}}]
+}

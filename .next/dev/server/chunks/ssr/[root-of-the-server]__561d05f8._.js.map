@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/components/typography/Header.tsx"],"sourcesContent":["export default function Header() {\r\n    return (\r\n        <p className=\"font-size-3 font-weight-600 text-primary-albedo mt-0 mb-1\">Header</p>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,qKAAC;QAAE,WAAU;kBAA4D;;;;;;AAEjF"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ellie/Desktop/Github%20Projects/project-foundation/pages/index.js"],"sourcesContent":["import Header from '../components/typography/Header'\r\n\r\nexport default function Page() {\r\n    return (\r\n        <div className=\"d-flex justify-content-center vh-100\">\r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,qKAAC;QAAI,WAAU;;;;;;AAGvB"}}]
+}
