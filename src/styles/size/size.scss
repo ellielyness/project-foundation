@@ -8,6 +8,9 @@
     .w-#{$width} {
         width:$width * $base;
     };
+    .w-min-#{$width} {
+        min-width:$width * $base;
+    };
     .hover-w-#{$width}:hover {
         width: calc($width * $base);
     };

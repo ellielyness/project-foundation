@@ -102,3 +102,10 @@ $list-style-type-options: disc,circle,square,decimal,none;
         list-style-type: $list-style-type;
     }
 };
+
+$text-decoration-options: underline,overline,wavy,dotted,none;
+@each $text-decoration in $text-decoration-options {
+    .text-decoration-#{$text-decoration} {
+        text-decoration: $text-decoration;
+    }
+};

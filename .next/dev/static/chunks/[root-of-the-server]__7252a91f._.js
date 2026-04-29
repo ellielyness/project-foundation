@@ -512,56 +512,21 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
 ;
-function __TURBOPACK__default__export__() {
+function __TURBOPACK__default__export__(props) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
         className: "d-flex flex-row justify-space-between p-3 w-100 position-fixed bg-black",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                id: "brand",
-                className: "text-secondary-albedo font-weight-400 hover-font-weight-800 font-width-151 cursor-pointer user-select-none font-leading-2",
-                children: "Site Name"
-            }, void 0, false, {
-                fileName: "[project]/components/layout/Navbar.tsx",
-                lineNumber: 4,
-                columnNumber: 13
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                className: "d-flex flex-row text-white list-style-type-none p-0 m-0",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                        className: "w-100 font-leading-2 px-1",
-                        children: "Home"
-                    }, void 0, false, {
-                        fileName: "[project]/components/layout/Navbar.tsx",
-                        lineNumber: 6,
-                        columnNumber: 17
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                        className: "w-100 font-leading-2 px-1",
-                        children: "Blog"
-                    }, void 0, false, {
-                        fileName: "[project]/components/layout/Navbar.tsx",
-                        lineNumber: 7,
-                        columnNumber: 17
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                        className: "w-100 font-leading-2 px-1",
-                        children: "Contact"
-                    }, void 0, false, {
-                        fileName: "[project]/components/layout/Navbar.tsx",
-                        lineNumber: 8,
-                        columnNumber: 17
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/components/layout/Navbar.tsx",
-                lineNumber: 5,
-                columnNumber: 13
-            }, this)
-        ]
-    }, void 0, true, {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+            id: "brand",
+            className: "text-secondary-albedo font-weight-400 hover-font-weight-800 font-width-151 cursor-pointer user-select-none font-leading-2",
+            children: "Site Name"
+        }, void 0, false, {
+            fileName: "[project]/components/layout/Navbar.tsx",
+            lineNumber: 5,
+            columnNumber: 13
+        }, this)
+    }, void 0, false, {
         fileName: "[project]/components/layout/Navbar.tsx",
-        lineNumber: 3,
+        lineNumber: 4,
         columnNumber: 9
     }, this);
 }
@@ -582,14 +547,33 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$layout$2f$Navb
 ;
 ;
 ;
+const menu = {
+    label: "Main Menu",
+    items: [
+        {
+            label: "Home",
+            href: "/"
+        },
+        {
+            label: "About",
+            href: "/about"
+        },
+        {
+            label: "Contact",
+            href: "/contact"
+        }
+    ]
+};
 function __TURBOPACK__default__export__(props) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         id: "header",
         className: "bg-black",
         children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$layout$2f$Navbar$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$layout$2f$Navbar$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
+                menu: menu
+            }, void 0, false, {
                 fileName: "[project]/components/layout/Header.tsx",
-                lineNumber: 7,
+                lineNumber: 26,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$layout$2f$Masthead$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -597,13 +581,13 @@ function __TURBOPACK__default__export__(props) {
                 subheading: props.subheading
             }, void 0, false, {
                 fileName: "[project]/components/layout/Header.tsx",
-                lineNumber: 8,
+                lineNumber: 27,
                 columnNumber: 13
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/layout/Header.tsx",
-        lineNumber: 6,
+        lineNumber: 25,
         columnNumber: 9
     }, this);
 }
