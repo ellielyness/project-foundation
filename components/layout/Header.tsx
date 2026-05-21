@@ -12,7 +12,6 @@ const menu: Menu = {
         {
             label: "About",
             menu: {
-                label: "About Menu",
                 items: [
                     {
                         label: "Test",
@@ -21,6 +20,18 @@ const menu: Menu = {
                     {
                         label: "Test 2",
                         href: "/about"
+                    },
+                    {
+                        label: "Test 3",
+                        menu: {
+                                items: [
+                                    {
+                                        label: "Test 4",
+                                        href: "/"
+                                    }
+
+                                ]
+                        }
                     }
                 ]
             }

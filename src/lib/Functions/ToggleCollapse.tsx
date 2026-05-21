@@ -4,10 +4,20 @@ export default function toggleCollapse(event:Event) {
 
     if (toggleElement.classList.contains('collapsed')) {
         toggleElement.classList.remove('collapsed');
-        target.classList.add('expanded');
+        toggleElement.parentElement.classList.remove('h-3');
+        toggleElement.classList.add('expanded');
+        for (const child of toggleElement.children) {
+            child.classList.add('h-3');
+            child.classList.remove('h-0');
+        }
     } else {
         toggleElement.classList.add('collapsed');
-        target.classList.remove('expanded');
+        toggleElement.classList.remove('expanded');
+        for (const child of toggleElement.children) {
+            child.classList.remove('h-3');
+            child.classList.add('h-0');
+        }
+
     }
     
 }

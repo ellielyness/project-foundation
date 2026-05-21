@@ -16,7 +16,7 @@
     };
 }
 
-@for $height from 1 to $namedSizeMax {
+@for $height from 0 to $namedSizeMax {
     .h-#{$height} {
         height:$height * $base;
     };

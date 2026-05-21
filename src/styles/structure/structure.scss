@@ -133,6 +133,15 @@ $position-options: absolute,fixed,relative,static,sticky;
     }
 };
 
+// Display
+
+$display-options: block,inline,none;
+@each $display in $display-options {
+    .d-#{$display} {
+        display: $display;
+    }
+};
+
 // Media Queries
 
 @each $name, $value in $breakpoints {
@@ -167,6 +176,14 @@ $position-options: absolute,fixed,relative,static,sticky;
         @media screen and (min-width: $value) {
             .align-content-#{$name}-#{$align} {
                 align-content: $align;
+            }
+        }
+    };
+
+    @each $display in $display-options {
+        @media screen and (min-width: $value) {
+            .d-#{$name}-#{$display} {
+                display: $display;
             }
         }
     };

@@ -1,5 +1,5 @@
 export type Menu = {
-    label: string;
+    label?: string;
     items: MenuItem[];
 }
 
