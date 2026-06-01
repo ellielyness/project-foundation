@@ -1,12 +1,12 @@
 __turbopack_load_page_chunks__("/_app", [
-  "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-  "static/chunks/node_modules_next_dist_shared_lib_8bac8163._.js",
-  "static/chunks/node_modules_next_dist_client_5a8a528e._.js",
-  "static/chunks/node_modules_next_dist_75b597d7._.js",
-  "static/chunks/node_modules_react-dom_4411d9bd._.js",
-  "static/chunks/node_modules_f1be3ba2._.js",
-  "static/chunks/[root-of-the-server]__73ecdec8._.js",
-  "static/chunks/src_styles_styles_scss_78f71aaa.css",
-  "static/chunks/pages__app_2da965e7._.js",
-  "static/chunks/turbopack-pages__app_49110392._.js"
+  "static/chunks/0ou3_next_dist_compiled_0rt1ta4._.js",
+  "static/chunks/0ou3_next_dist_shared_lib_0ctwz85._.js",
+  "static/chunks/0ou3_next_dist_client_0p8dt65._.js",
+  "static/chunks/0ou3_next_dist_00ad0rc._.js",
+  "static/chunks/0ou3_react-dom_0x3u~6n._.js",
+  "static/chunks/0ou3_01ps_hh._.js",
+  "static/chunks/[root-of-the-server]__0jq0z5o._.js",
+  "static/chunks/Desktop_Github Projects_project-foundation_src_styles_styles_scss_0z0t4n7.css",
+  "static/chunks/Desktop_Github Projects_project-foundation_pages__app_07xvfw~._.js",
+  "static/chunks/turbopack-Desktop_Github Projects_project-foundation_pages__app_0belt~d._.js"
 ])
