@@ -1,5 +1,5 @@
 import Masthead from "./Masthead";
-import Navbar from "./Navbar";
+import Navbar from "./Nav/Navbar";
 import { Menu,MenuItem } from "lib/Types";
 
 const menu: Menu = {

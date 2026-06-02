@@ -1,23 +1,13 @@
 export default function toggleCollapse(event:Event) {
-    const target = event.target;
-    const toggleElement = target.parentElement.children[1];
-
-    if (toggleElement.classList.contains('collapsed')) {
-        toggleElement.classList.remove('collapsed');
-        toggleElement.parentElement.classList.remove('h-3');
-        toggleElement.classList.add('expanded');
-        for (const child of toggleElement.children) {
-            child.classList.add('h-3');
-            child.classList.remove('h-0');
-        }
-    } else {
-        toggleElement.classList.add('collapsed');
-        toggleElement.classList.remove('expanded');
-        for (const child of toggleElement.children) {
-            child.classList.remove('h-3');
-            child.classList.add('h-0');
-        }
-
-    }
+    const btn = event.target;
+    const element = btn.parentElement.children[1];
     
+    if (element.classList.contains('collapsed')) {
+        element.classList.add('expanded');
+        element.classList.remove('collapsed');
+    } else {
+        element.classList.remove('expanded');
+        element.classList.add('collapsed');
+    }
+
 }

@@ -6,15 +6,15 @@
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/0ou3_next_dist_compiled_0rt1ta4._.js",
-      "static/chunks/0ou3_next_dist_shared_lib_0ctwz85._.js",
-      "static/chunks/0ou3_next_dist_client_0p8dt65._.js",
-      "static/chunks/0ou3_next_dist_00ad0rc._.js",
-      "static/chunks/0ou3_react-dom_0x3u~6n._.js",
-      "static/chunks/0ou3_01ps_hh._.js",
-      "static/chunks/[root-of-the-server]__0xpceks._.js",
-      "static/chunks/Desktop_Github Projects_project-foundation_pages_index_07xvfw~._.js",
-      "static/chunks/turbopack-Desktop_Github Projects_project-foundation_pages_index_02xjs-w._.js"
+      "static/chunks/node_modules_next_dist_compiled_0o6l_m6._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_0n1wg2c._.js",
+      "static/chunks/node_modules_next_dist_client_0pe1dg-._.js",
+      "static/chunks/node_modules_next_dist_0k8zr~w._.js",
+      "static/chunks/node_modules_react-dom_0bruynb._.js",
+      "static/chunks/node_modules_11l9xip._.js",
+      "static/chunks/[root-of-the-server]__0moc5us._.js",
+      "static/chunks/pages_index_07xvfw~._.js",
+      "static/chunks/turbopack-pages_index_0odf99x._.js"
     ]
   },
   "ampFirstPages": []
