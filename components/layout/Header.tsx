@@ -47,7 +47,7 @@ export default function(props) {
     return (
         <div id="header" className="bg-black">
             <Navbar menu={menu} />
-            <Masthead heading={props.heading} subheading={props.subheading} />
+            <Masthead image="/img/header.jpg" heading={props.heading} subheading={props.subheading} />
         </div>
     )
 }

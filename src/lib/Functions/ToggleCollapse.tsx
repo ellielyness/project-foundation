@@ -5,9 +5,11 @@ export default function toggleCollapse(event:Event) {
     if (element.classList.contains('collapsed')) {
         element.classList.add('expanded');
         element.classList.remove('collapsed');
+        btn.classList.add('toggled');
     } else {
         element.classList.remove('expanded');
         element.classList.add('collapsed');
+        btn.classList.remove('toggled');
     }
 
 }

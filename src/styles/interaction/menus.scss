@@ -1,7 +1,12 @@
 @use '../globals.scss' as *;
 
-.nav-menu > .menu {
+.menu {
     display: flex;
+    flex-direction: column;
+    margin-block-end:0;
+}
+
+.nav-menu > .menu {
     flex-direction: row;
 }
 
@@ -9,10 +14,10 @@
     content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 6.93'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%23000;%7D%3C/style%3E%3C/defs%3E%3Cpath class='cls-1' d='M6.27,1l-2.27,3.93L1.73,1h4.54M8,0H0l4,6.93L8,0h0Z'/%3E%3C/svg%3E");
     width: 8px;
     margin-left: 8px;
-    transform: translateY(-2px)
+    transform: translateY(-2px);
 }
 
-.dropdown:has(+ .expanded)::after {
+.dropdown.toggled::after {
     content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 6.93'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%23000;%7D%3C/style%3E%3C/defs%3E%3Cpolygon class='cls-1' points='4 0 0 6.93 8 6.93 4 0'/%3E%3C/svg%3E");
 }
 
@@ -33,3 +38,15 @@ li {
 .collapsed {
     display:none;
 }
+
+// Media Queries
+
+@each $name, $value in $breakpoints {
+
+    @media screen and (min-width: $value) {
+            .nav-menu > .menu.collapse-#{$name} {
+                display: flex;
+            }
+    }
+
+};

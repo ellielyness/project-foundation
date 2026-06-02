@@ -91,7 +91,15 @@
     .col-#{$col} {
         width:100%;
         max-width: calc(100% / (12/$col));
-        padding: $base;
+        padding-left: $base;
+        padding-right: $base;
+        display: inline-block;
+    }
+};
+
+@for $offset from 1 through 13 {
+    .offset-#{$offset} {
+        margin-left: calc(100% / (12/$offset));
     }
 };
 
@@ -101,6 +109,11 @@ $align-options: start,center,end,self-start,self-end;
 @each $align in $align-options {
     .align-content-#{$align} {
         align-content: $align;
+    }
+};
+@each $align in $align-options {
+    .align-items-#{$align} {
+        align-items: $align;
     }
 };
 
@@ -151,7 +164,11 @@ $display-options: block,inline,none;
             .col-#{$name}-#{$col} {
                 width:100%;
                 max-width: calc(100% / (12/$col));
-                padding: $base;
+                padding-left: $base;
+                padding-right: $base;
+            };
+            .offset-#{$name}-#{$col} {
+                margin-left: calc(100% / (12/$col));
             }
         }
     };
@@ -176,6 +193,14 @@ $display-options: block,inline,none;
         @media screen and (min-width: $value) {
             .align-content-#{$name}-#{$align} {
                 align-content: $align;
+            }
+        }
+    };
+
+    @each $align in $align-options {
+        @media screen and (min-width: $value) {
+            .align-items-#{$name}-#{$align} {
+                align-items: $align;
             }
         }
     };
