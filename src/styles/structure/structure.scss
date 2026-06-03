@@ -111,9 +111,17 @@ $align-options: start,center,end,self-start,self-end;
         align-content: $align;
     }
 };
+
 @each $align in $align-options {
     .align-items-#{$align} {
         align-items: $align;
+    }
+};
+
+$v-align-options: top,bottom,center,middle,first,baseline,sub,super;
+@each $v-align in $v-align-options {
+    .v-align-#{$v-align} {
+        vertical-align: $v-align;
     }
 };
 

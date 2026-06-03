@@ -75,6 +75,11 @@ p {
     margin-bottom: calc($base*2);
 }
 
+.caption {
+    padding:0.5rem 1rem;
+    margin:0;
+}
+
 .font-leading-1 {
     line-height: calc($base * $step + ($base / 2));
 }
@@ -98,6 +103,22 @@ p {
         line-height: calc($lh * $step * $base);
     }
 }
+
+@for $tracking from 1 through 101 {
+    .font-tracking-#{$tracking} {
+        letter-spacing: $tracking * 1%;
+    }
+    .hover-font-tracking-#{$tracking}:hover {
+        letter-spacing: $tracking * 1%;
+    }
+}
+
+$text-transform-options: capitalize,lowercase,none,uppercase;
+@each $text-transform in $text-transform-options {
+    .text-transform-#{$text-transform} {
+        text-transform: $text-transform;
+    }
+};
 
 // And now for the obligatory styling of
 // Lists and Links
