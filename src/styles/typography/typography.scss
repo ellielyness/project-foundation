@@ -75,6 +75,10 @@ p {
     margin-bottom: calc($base*2);
 }
 
+p:last-child {
+    margin-bottom:0;
+}
+
 .caption {
     padding:0.5rem 1rem;
     margin:0;

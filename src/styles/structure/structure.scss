@@ -87,6 +87,26 @@
     flex-direction: row;
 }
 
+.row {
+    width:100%;
+    display:flex;
+    height:fit-content;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.container {
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    height:fit-content;
+}
+
+.container-fullwidth {
+    width:100%;
+    height:fit-content;
+}
+
 @for $col from 1 through 13 {
     .col-#{$col} {
         width:100%;
