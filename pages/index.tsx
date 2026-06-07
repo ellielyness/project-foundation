@@ -1,6 +1,6 @@
 import Header from '../components/layout/Header'
 import Grid from '../components/display/Grid'
-import Image from 'next/image'
+import Image from '../components/layout/Image'
 
 export default function Page() {
     return (

@@ -13,3 +13,17 @@ $user-select-options: auto,none,text,all;
         user-select: $user-select;
     }
 };
+
+.hover-grow {
+    transform:scale(1);
+}
+
+
+@for $f from 1 through 11 {
+    .hover-grow-#{$f} {
+    transform:scale(1);
+    }
+    .hover-grow-#{$f}:hover {
+    transform:scale(calc(1 + ($f / 100)))
+}
+}

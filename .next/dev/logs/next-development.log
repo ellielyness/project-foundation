@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"timestamp":"00:00:00.550","source":"Server","level":"LOG","message":""}
 {"timestamp":"00:00:22.375","source":"Server","level":"LOG","message":"/img/header.jpg"}
 {"timestamp":"00:00:22.652","source":"Browser","level":"LOG","message":"/img/header.jpg"}
@@ -45,3 +46,8 @@
 {"timestamp":"00:22:57.547","source":"Server","level":"LOG","message":"✓ Compiled in 864ms"}
 {"timestamp":"00:23:15.933","source":"Browser","level":"LOG","message":"/img/header.jpg"}
 {"timestamp":"00:23:15.950","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+=======
+{"timestamp":"00:00:00.699","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.325","source":"Server","level":"LOG","message":"/img/header.jpg"}
+{"timestamp":"00:00:02.472","source":"Browser","level":"LOG","message":"/img/header.jpg"}
+>>>>>>> refs/remotes/origin/main
