@@ -1,6 +1,6 @@
 import Header from '../components/layout/Header'
 import Grid from '../components/display/Grid'
-import Image from 'next/image'
+import Image from '../components/layout/Image'
 
 export default function Page() {
     return (
@@ -19,8 +19,7 @@ export default function Page() {
                         <p>An unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>                    
                     </div>
                     <div className='col-12 col-m-6'>
-                        <img src="/img/header.jpg" />
-                        <p className='caption bg-secondary-albedo text-transform-uppercase font-tracking-20 font-weight-300'><span className='font-weight-500'>Above:</span> This is a test caption to show an example</p>
+                        <Image src="/img/header.jpg"/>
                     </div>
                 </div>
             </div>
