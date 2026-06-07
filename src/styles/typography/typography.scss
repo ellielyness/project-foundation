@@ -12,7 +12,7 @@
     margin-block-start: 0;
 }
 
-// Variable Font Classes
+// Variable Font Classes. The reason why I started this thing tbh.
 
 @for $weight from 100 through 1001 {
     .font-weight-#{$weight} {
@@ -80,8 +80,15 @@ p:last-child {
 }
 
 .caption {
+    font-size:0.75rem;
     padding:0.5rem 1rem;
     margin:0;
+}
+
+// Interactive Elements
+
+.btn {
+    text-transform: uppercase;
 }
 
 .font-leading-1 {

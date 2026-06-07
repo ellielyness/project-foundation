@@ -9,4 +9,27 @@ $breakpoints: (
     xl: 1440px
 );
 
+$colors: (
+    // Primary
+    primary: rgb(255,0,120),
+    primary-albedo: rgb(255,245,245),
+    primary-tint: rgb(255,239,236),
+    primary-shade: rgb(64,0,30),
+    primary-absorption: rgb(15,0,0),
+
+    // Secondary
+    secondary: rgb(40,0,255),
+    secondary-albedo: rgb(245,245,255),
+    secondary-tint: rgb(229,219,255),
+    secondary-shade: rgb(10,0,64),
+    secondary-absorption: rgb(0,0,15),
+
+    // Utility
+    white: rgb(255,255,255),
+    black: rgb(0,0,0),
+    warning: rgb(255, 72, 0),
+    danger: rgb(255, 0, 34),
+    success: rgb(0, 255, 0),
+);
+
 $namedSizeMax: 10;
