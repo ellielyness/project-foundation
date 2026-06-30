@@ -1,6 +1,26 @@
 import Header from '../components/layout/Header'
 import Grid from '../components/display/Grid'
 import Carousel from '../components/layout/Carousel/Carousel'
+import ImageCaption from '../components/layout/Typography/ImageCaption'
+
+const carouselData = {
+    // captionBg: "bg-secondary",
+    // captionColor: "text-secondary-albedo",
+    items: [
+        {
+            src: "/img/header.jpg",
+            caption: "Image 1"
+        },
+        {
+            src: "/img/header.jpg",
+            caption: "Image 2"
+        },
+        {
+            src: "/img/header.jpg",
+            caption: "Image 3"
+        }
+    ]
+}
 
 export default function Page() {
     return (
@@ -18,12 +38,18 @@ export default function Page() {
                     </div>
                     <div className='col-10 offset-1 offset-m-0 col-m-5 py-2'>
                         <img src="/img/header.jpg" />
-                        <p className='caption bg-secondary-albedo text-transform-uppercase font-tracking-20 font-weight-300'><span className='font-weight-500'>Above:</span> This is a test caption to show an example</p>
+                        <ImageCaption caption="This is a test caption to show an example" />
                     </div>
                 </div>
                 <div className="row bg-secondary-albedo py-2">
                     <div className="col-10 offset-1 col-m-5">
-                        <Carousel />
+                        <Carousel data={carouselData}/>
+                    </div>
+                    <div className="col-10 offset-1 offset-m-0 col-m-5">
+                        <form>
+                            <label htmlFor="input">Test</label>
+                            <input className="p-1 border-none d-block w-100" id="input" name="input" placeholder="test"></input>
+                        </form>
                     </div>
                 </div>
                 

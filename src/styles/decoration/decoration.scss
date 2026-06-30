@@ -1,0 +1,49 @@
+@use 'sass:map';
+@use '../globals.scss' as globals;
+
+$angles: (
+    0: (
+        x: 1,
+        y: 0
+    ),
+    45: (
+        x: 1,
+        y: 1
+    ),
+    90: (
+        x: 0,
+        y: 1
+    ),
+    135: (
+        x: -1,
+        y: 1
+    ),
+    180: (
+        x: -1,
+        y: 0
+    ),
+    225: (
+        x: -1,
+        y: -1
+    ),
+    270: (
+        x: 0,
+        y: -1
+    ),
+    315: (
+        x: 1,
+        y: -1
+    ),
+);
+
+@each $name, $value in globals.$colors {
+    @for $size from 1 through 10 {
+        @each $angle, $values in $angles {
+            .shadow-#{$name}-#{$size}-#{$angle} {
+                box-shadow: #{$value} #{calc($size*globals.$base*map.get($values, 'x'))} #{calc($size*globals.$base*map.get($values, 'y'))} #{calc($size*globals.$base)}; 
+            }
+
+        }
+        
+    }
+}
