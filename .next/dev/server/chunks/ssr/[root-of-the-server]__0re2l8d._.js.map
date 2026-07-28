@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///home/ellie-lyness/Desktop/Current%20Projects/project-foundation/pages/_document.tsx"],"sourcesContent":["import { Html, Head, Main, NextScript } from 'next/document'\n\nexport default function Document() {\n    return (\n        <Html>\n            <Head />\n            <body className=\"m-0\">\n                <Main />\n                <NextScript />\n            </body>\n        </Html>\n    )\n}"],"names":["Document","className"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACpB,qBACI,qKAAC,iIAAI;;0BACD,qKAAC,iIAAI;;;;;0BACL,qKAAC;gBAAKC,WAAU;;kCACZ,qKAAC,iIAAI;;;;;kCACL,qKAAC,uIAAU;;;;;;;;;;;;;;;;;AAI3B"}}]
-}
