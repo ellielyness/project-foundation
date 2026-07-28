@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/ellie-lyness/Desktop/Current%20Projects/project-foundation/pages/_app.tsx"],"sourcesContent":["import type { AppProps } from \"next/app\"\nimport '@/styles/styles.scss';\n\nexport default function App({Component, pageProps}: AppProps) {\n    return <Component {...pageProps} />\n}"],"names":["App","Component","pageProps"],"mappings":";;;;;;;AAGe,SAASA,IAAI,EAACC,SAAS,EAAEC,SAAS,EAAW;IACxD,qBAAO,qKAACD;QAAW,GAAGC,SAAS;;;;;;AACnC"}}]
+}

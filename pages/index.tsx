@@ -48,7 +48,10 @@ export default function Page() {
                     <div className="col-10 offset-1 offset-m-0 col-m-5">
                         <form>
                             <label htmlFor="input">Test</label>
-                            <input className="p-1 border-none d-block w-100" id="input" name="input" placeholder="test"></input>
+                            <div className="d-flex gap-1">
+                                <input className="my-1 p-1 border-none d-block w-100 font-size-1 font-leading-normal" id="input1" name="input1" placeholder="test"></input>
+                            </div>
+                            <button className="bg-secondary-absorption text-white font-size-1 font-leading-normal p-1 border-none" type="submit">Test</button>
                         </form>
                     </div>
                 </div>

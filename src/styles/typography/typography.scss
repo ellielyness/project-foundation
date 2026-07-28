@@ -95,6 +95,10 @@ p:last-child {
     line-height: calc($base * $step + ($base / 2));
 }
 
+.font-leading-normal {
+    line-height: normal;
+}
+
 @for $size from 2 through 11 {
     .font-size-#{$size} {
         font-size: calc(($size - 1) * $step * $base);
