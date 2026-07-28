@@ -29,6 +29,9 @@
     .w-#{$width} {
         width: calc($width * 1%);
     };
+    .w-min-#{$width} {
+        min-width: calc($width * 1%);
+    };
     .hover-w-#{$width}:hover {
         width: calc($width * 1%);
     };

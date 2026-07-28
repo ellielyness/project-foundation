@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ellie/Desktop/Github%20Projects/foundation/src/styles/styles.css"],"sourcesContent":["p {\n  font-size: 1rem;\n  color: #000;\n}\n/*# sourceMappingURL=styles.css.map */"],"names":[],"mappings":"AAAA"}}]
-}

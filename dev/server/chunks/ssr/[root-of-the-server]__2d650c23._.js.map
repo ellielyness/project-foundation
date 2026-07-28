@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ellie/Desktop/Github%20Projects/foundation/pages/index.js"],"sourcesContent":["export default function Page() {\r\n    return (\r\n        <div>\r\n            <h1 className=\"m-0 font-weight-250 hover-font-weight-500 hover-font-size-10 text-primary hover-text-secondary\">Poos</h1>\r\n            <h2 className=\"m-0 font-weight-225 font-width-110 font-slant-2\">Poos</h2>\r\n            <h3 className=\"m-0 font-weight-200 font-width-100 font-slant-4\">Poos</h3>\r\n            <h4 className=\"m-0 font-weight-175 font-width-75 font-slant-6\">Poos</h4>\r\n            <h5 className=\"m-0 my-1 font-weight-150 font-width-50 font-slant-8\">Poos</h5>\r\n            <h6 className=\"m-0 my-1 font-weight-100 font-width-25 font-slant-10 hover-font-width-110 hover-font-slant-2\">Poos</h6>\r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,qKAAC;;0BACG,qKAAC;gBAAG,WAAU;0BAAiG;;;;;;0BAC/G,qKAAC;gBAAG,WAAU;0BAAkD;;;;;;0BAChE,qKAAC;gBAAG,WAAU;0BAAkD;;;;;;0BAChE,qKAAC;gBAAG,WAAU;0BAAiD;;;;;;0BAC/D,qKAAC;gBAAG,WAAU;0BAAsD;;;;;;0BACpE,qKAAC;gBAAG,WAAU;0BAA+F;;;;;;;;;;;;AAGzH"}}]
-}
