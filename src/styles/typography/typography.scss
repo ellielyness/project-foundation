@@ -151,3 +151,48 @@ $text-decoration-options: underline,overline,wavy,dotted,none;
         text-decoration: $text-decoration;
     }
 };
+
+// Rendering Code Blocks
+
+code {
+    font-family: ui-monospace;
+}
+
+.bg-primary-albedo > p > code , .bg-primary-albedo > pre:has(code) {
+    background-color:map-get($colors, primary-absorption);
+    color: map-get($colors, primary);
+    padding:0.5rem;
+}
+
+.bg-primary-absorption > p > code , .bg-primary-absorption > pre:has(code) {
+    background-color:map-get($colors, primary-albedo);
+    color: map-get($colors, primary);
+    padding:0.5rem;
+}
+
+.bg-secondary-albedo > p > code , .bg-secondary-albedo > pre:has(code) {
+    background-color:map-get($colors, secondary-absorption);
+    color: map-get($colors, secondary);
+    padding:0.5rem;
+}
+
+.bg-secondary-absorption > p > code , .bg-secondary-absorption > pre:has(code) {
+    background-color:map-get($colors, secondary-albedo);
+    color: map-get($colors, secondary);
+    padding:0.5rem;
+}
+
+// And block quotes
+
+blockquote {
+    font-family: sans-serif;
+    font-style:italic;
+    border-left:1px solid rgb(44, 44, 44);
+    padding-left: 0.5rem;
+    margin:0;
+    margin-bottom:1rem;
+}
+
+ol, ul {
+    list-style-position: inside;
+}

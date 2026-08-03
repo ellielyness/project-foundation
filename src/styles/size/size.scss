@@ -20,6 +20,12 @@
     .h-#{$height} {
         height:$height * $base;
     };
+    .max-h-#{$height} {
+        max-height:$height * $base;
+    };
+    .min-h-#{$height} {
+        min-height:$height * $base;
+    };
     .hover-h-#{$height}:hover {
         height: calc($height * $base);
     };
@@ -41,6 +47,12 @@
     .h-#{$height} {
         height: calc($height * 1%);
     };
+    .max-h-#{$height} {
+        max-height: calc($height * 1%);
+    };
+    .min-h-#{$height} {
+        min-height: calc($height * 1%);
+    };
     .hover-h-#{$height}:hover {
         height: calc($height * 1%);
     };
@@ -49,6 +61,12 @@
 @for $vh from 1 to 101 {
     .vh-#{$vh} {
         height: calc($vh * 1vh);
+    };
+    .max-vh-#{$vh} {
+        max-height: calc($vh * 1vh);
+    };
+    .min-vh-#{$vh} {
+        min-height: calc($vh * 1vh);
     };
 }
 
