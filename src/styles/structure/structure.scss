@@ -173,6 +173,9 @@ $align-options: start,center,end,self-start,self-end;
     .align-items-#{$align} {
         align-items: $align;
     }
+    .align-self-#{$align} {
+        align-self: $align;
+    }
 };
 
 $v-align-options: top,bottom,center,middle,first,baseline,sub,super;
